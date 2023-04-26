@@ -1,0 +1,61 @@
+.container{
+    position: relative;
+}
+
+.rojo{
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    left: 568px ;
+    top: 250px;
+    z-index: 6;
+
+}
+.naranjo{
+    width: 200px;
+    height: 200px;
+    background-color:rgb(230, 112, 70);
+    margin: auto;
+    z-index: 1;
+    position: relative;
+    
+}
+.azul{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 0, 255);
+    position:relative;
+    left:568px;
+    bottom: 250px;
+    z-index: 3;
+    
+   
+    
+}
+    
+.amarillo{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    position: relative;
+    left:420px;
+    bottom: 200px;
+    z-index: 4
+   
+    
+}
+
+.verde{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    z-index: 6;
+    position: relative;
+    left: 700px;
+    top: 200px;
+
+   
+    
+}
